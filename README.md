@@ -1,28 +1,29 @@
-# ***Waether Forecast***
-O jogo Defenders Lovers foi desenvolvido em grupo durante uma game jam de uma semana, com o tema "mensagem e amor". O jogo consiste em um coração que defende uma torre de cartas contra vários inimigos.
+# 😎 Weather Forecast
+Este é um projeto simples que mostra as condições climáticas de qualquer cidade do mundo. Foi desenvolvido ao longo de 9 horas para colocar em prática minhas habilidades em HTML, CSS e JavaScript.
 
-> # 🚀 CONCEITO
-> * O objetivo do jogo Defenders Lovers é que o jogador defenda a torre pelo maior tempo possível. Trata-se de um jogo 2D, estilo top-down, do gênero tower defense.
+> ## 🤖 Funcionalidades
+> * **Dados dinâmicos:** Os dados utilizados são acessados por meio de uma [API](https://jikan.moe/) e são transformados em um arquivo do tipo JSON para serem consumidos pela aplicação.
+> * **Exibição de resultados:** Os resultados são exibidos na tela dos usuários, mostrando a imagem do personagem e o nome.
+> ## 💡 Tecnologias utilizadas
+> * **HTML:** Utilizado para construir a estrutura básica da página.
+> * **CSS:** Utilizado para estilizar a página.
+> * **Javascrip:** Utilizado para implementar as funcionalidades da página.
+> * **[API Jikan](https://jikan.moe/):** Utilizada para capturar os dados para a aplicação.
+> * **JSON:** Utilizado para transformar os dados da API para serem utilizados na aplicação.
+> * **Chat GPT:** Utilizado para auxiliar no processo de desenvolvimento.
+> ## 🔦 Como utilizar
+> Clique no botão e, automaticamente, aparecerá um personagem na sua tela.
+> ## 😀 Inspiração
+> O projeto [Pets Factory](https://github.com/Xamacardoso/pets-factory.git) gera um gato ou um cachorro aleatoriamente, desenvolvido pelo desenvolvedor [Xamã Cardoso](https://github.com/Xamacardoso).
 
-> # 🔦 TECNOLOGIAS UTILIZADAS
-> * **Godot engine:** O motor utilizado no desenvolvimento do jogo.
-> * **GDScript:** A linguagem de programação utilizada na engine.
-> * **Git/GitHub:** Utilizados para armezanar o código.
-> * **Notion:** Utilizado para a documentação do projeto.
+> ## 💻 [VEJA O PROJETO](https://random-character-project.vercel.app/)
+> <img src="https://github.com/KaioGabriel-the/Random-character-project/blob/341956b6c0e0a1a9a650d6fefe57261f50fd243f/imagemsite.png">
 
-> # 💻 [VEJA O PROJETO]()
-> <img src="defendersloversimagem.png">
-
-> # 🔗 CLONE DO PROJETO
+> ## CLONE O PROJETO
 > ``` bash
-> git clone https://github.com/NicolasRaf/Defenders-Lovers.git
+> git clone https://github.com/KaioGabriel-the/Random-character-project.git
 
-> # 📱 CONTATO
-> * **Kaio Gabriel**
->> [![E-mail](https://img.shields.io/badge/-Email-9B59B6?style=for-the-badge&logo=microsoft-outlook&logoColor=white)](kkaiogabrielk@gmail.com)
->> [![LinkedIn](https://img.shields.io/badge/linkedin-%239B59B6.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kaio-gabriel-de-sousa-carvalho-baa05b313/?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)
->> [![GitHub](https://img.shields.io/badge/GitHub-9B59B6?style=for-the-badge&logo=github&logoColor=white)](https://github.com/KaioGabriel-the)
-> * **Nicolas Rafael**
->> [![E-mail](https://img.shields.io/badge/-Email-9B59B6?style=for-the-badge&logo=microsoft-outlook&logoColor=white)](nicolasalves136@gmail.com)
->> [![LinkedIn](https://img.shields.io/badge/linkedin-%239B59B6.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nicolas-rafael-2992172b8/?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)
->> [![GitHub](https://img.shields.io/badge/GitHub-9B59B6?style=for-the-badge&logo=github&logoColor=white)](https://github.com/NicolasRaf)
+>## CONTATO
+> * **Desenvolvedor:** Kaio Gabriel
+> * **Email:** [contato.kaiogabrieldev@gmail.com](contato.kaiogabrieldev@gmail.com)
+> * **Linkedln:** [Kaio Gabriel de Sousa Carvalho](https://www.linkedin.com/in/kaio-gabriel-de-sousa-carvalho-baa05b313/)
