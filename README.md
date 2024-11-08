@@ -16,14 +16,26 @@ Este é um projeto simples que mostra as condições climáticas de qualquer cid
 > ## 😀 Inspiração
 > O projeto foi beseado no [video](https://youtu.be/t_GdX1iLYQE?si=wTPZnz3xDws3WiRq) da Larissa Kich.
 
-> ## 💻 [VEJA O PROJETO](https://random-character-project.vercel.app/)
-> <img src="https://github.com/KaioGabriel-the/Random-character-project/blob/341956b6c0e0a1a9a650d6fefe57261f50fd243f/imagemsite.png">
+> ## 💻 [VEJA O PROJETO](https://project-wather-forecast.vercel.app/)
+> * **Tela de início**
+> <img src="https://github.com/KaioGabriel-the/Project-Weather-forecast/blob/ab957cdab0e2db44baed739dc17d3538ffa59027/src/images/img01.png">
+
+> * **Tela de resultado**
+> <img src="https://github.com/KaioGabriel-the/Project-Weather-forecast/blob/ab957cdab0e2db44baed739dc17d3538ffa59027/src/images/img02.png">
+
+> * **Tela de quando não tem nada na barra de pesquisa**
+> <img src="https://github.com/KaioGabriel-the/Project-Weather-forecast/blob/ab957cdab0e2db44baed739dc17d3538ffa59027/src/images/img03.png">
+
+> * **Tela de quando é digitado alguma cidade que não existe**
+> <img src="https://github.com/KaioGabriel-the/Project-Weather-forecast/blob/ab957cdab0e2db44baed739dc17d3538ffa59027/src/images/img04.png">
+
 
 > ## CLONE O PROJETO
 > ``` bash
-> git clone https://github.com/KaioGabriel-the/Random-character-project.git
+> git clone https://github.com/KaioGabriel-the/Project-Weather-forecast.git
 
->## CONTATO
-> * **Desenvolvedor:** Kaio Gabriel
-> * **Email:** [contato.kaiogabrieldev@gmail.com](contato.kaiogabrieldev@gmail.com)
-> * **Linkedln:** [Kaio Gabriel de Sousa Carvalho](https://www.linkedin.com/in/kaio-gabriel-de-sousa-carvalho-baa05b313/)
+# 📱 CONTATO
+> * **Kaio Gabriel**
+>> [![E-mail](https://img.shields.io/badge/-Email-0077B5?style=for-the-badge&logo=microsoft-outlook&logoColor=white)](mailto:kkaiogabrielk@gmail.com)
+>> [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kaio-gabriel-de-sousa-carvalho-baa05b313/?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)
+>> [![GitHub](https://img.shields.io/badge/GitHub-0077B5?style=for-the-badge&logo=github&logoColor=white)](https://github.com/KaioGabriel-the)
